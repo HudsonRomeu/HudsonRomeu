@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HudsonRomeu
 - 👀 I’m interested in Web, Mobile and Desktop development.
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on Vue.js & .NET community
+- 💞️ I’m looking to collaborate on React & .NET community
 - 📫 How to reach me: hudson.romeu@codeinformatica.com.br
 
 <!---
